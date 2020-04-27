@@ -1,0 +1,6 @@
+> Executing task in folder 00-CppHelloWorld: make run <
+
+hello.exe
+Hello World!
+
+Las tareas reutilizarán el terminal, presione cualquier tecla para cerrarlo.
