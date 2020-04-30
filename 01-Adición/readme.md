@@ -23,6 +23,8 @@ Durante el _Proceso_ se solucionará el problema que buscamos resolver; en este 
 
 Por último, la _salida_ imprimirá por pantalla el resultado a través de un **cout**.
 
+___
+
 ### Etapa #2: Diseño de la Solución.
 * **Léxico del algoritmo:**
 
