@@ -36,4 +36,4 @@ Sea: a, b ϵ ℜ
 
 * **Representación del algoritmo:**
 
-![Representación visual01](https://k7sxqa.dm.files.1drv.com/y4mRAHWQCoMNnuvbw8mJKqt6-waHEgcEKckqtr8JtWWsxTVEhSu83roLoD5YjaETHFlSv3j9Z4x1zfA3wMrEtoldnCrkm-pbKare3y8qEsjClAs9gI0KNbsMGrc2W1WMMLi8Vs4Rcdmi5zS3v3dZ-GIE5Q7aoO0B9EQeQQfEXy7fOklFT-H4bKl2BfxMQFz4PPasNa9_HCWfrnYJQWD3ss6cA/01AdicionRepresentacionVisual.png?psid=1"Representación visual: Nassi-Schneiderman.")
+![Representación visual01](https://k7sxqa.dm.files.1drv.com/y4mRAHWQCoMNnuvbw8mJKqt6-waHEgcEKckqtr8JtWWsxTVEhSu83roLoD5YjaETHFlSv3j9Z4x1zfA3wMrEtoldnCrkm-pbKare3y8qEsjClAs9gI0KNbsMGrc2W1WMMLi8Vs4Rcdmi5zS3v3dZ-GIE5Q7aoO0B9EQeQQfEXy7fOklFT-H4bKl2BfxMQFz4PPasNa9_HCWfrnYJQWD3ss6cA/01AdicionRepresentacionVisual.png?psid=1 "Representación visual: Nassi-Schneiderman.")
